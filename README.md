@@ -10,14 +10,15 @@
 
 
 
-## Spanish Americas at the close of the 16th c.
+## House Don Luis
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+This essay explores the creation of a free Black town in the early Spanish empire. Don Luis Mozambique was the leader of a group of fifty-five <i>negros cimarrones</i>, or maroons in English sources. 
+I will call this interrelated group of men, women, and children "House Don Luis"
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 
-## Tierra Firme and the Carrera da Indias
+## Tierra Firme, 1580
 
 
 <param ve-image 
@@ -26,9 +27,24 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Satellite_image_of_Panama_in_March_2003.jpg/1280px-Satellite_image_of_Panama_in_March_2003.jpg">
 
-## Map
+## Transatlantic Trafficking
 
+How did House Don Luis arrive in Panama?
 
+<param ve-iframe
+       label="Visualization of Slaving Vessels Over Time"
+       description=""
+       url="https://slavevoyages.org/voyage/database#timelapse">
+       
+## What's in a name?
+
+How much can these names tell us? 
+This element is an image now as a placeholder. Might be a better demonstration of the capacity to use a map element with geo-json layers. 
+
+<param ve-image 
+       label="Linguistic map of W Africa"
+       description=""
+       url="">
 
 ## Multiple viewers
 
