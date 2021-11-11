@@ -16,16 +16,14 @@ This essay explores the creation of a free Black town in the early Spanish empir
 I will call this interrelated group of men, women, and children "House Don Luis"
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       
+## Who was part of House Don Luis?
 
+Network graph showing ages, genders, relationships, names of the people involved. Descriptive text boxes for: Luis and Pedro's relationship, the two "criadas" in his household, the clusters of people according to ethnonyms.  
 
-## Tierra Firme, 1580
+<param ve-d3plus-network
+       url="">
 
-
-<param ve-image 
-       label="" 
-       description="" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Satellite_image_of_Panama_in_March_2003.jpg/1280px-Satellite_image_of_Panama_in_March_2003.jpg">
 
 ## Transatlantic Trafficking
 
@@ -45,7 +43,15 @@ This element is an image now as a placeholder. Might be a better demonstration o
        label="Linguistic map of W Africa"
        description=""
        url="">
+       
+## Tierra Firme, 1580
 
+
+<param ve-image 
+       label="" 
+       description="" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Satellite_image_of_Panama_in_March_2003.jpg/1280px-Satellite_image_of_Panama_in_March_2003.jpg">
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
