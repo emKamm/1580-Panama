@@ -17,6 +17,11 @@ I will call this interrelated group of men, women, and children "House Don Luis"
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
        
+## Tierra Firme in the 16th Century
+The Spanish called this section of their mainland Caribbean colonies "Tierra Firme," meaning "Solid Ground." The isthmus of Panama was a critical crossing point between the Atlantic and Pacific for goods, information, and people. How did that work?
+
+<param ve-map center="Q182139" zoom="13">
+       
 ## Who was part of House Don Luis?
 
 Network graph showing ages, genders, relationships, names of the people involved. Descriptive text boxes for: Luis and Pedro's relationship, the two "criadas" in his household, the clusters of people according to ethnonyms.  
